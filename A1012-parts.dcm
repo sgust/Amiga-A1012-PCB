@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP FLOPPY26
-D 26 Pin slim line floppy connector
+D 26 Pin slim line floppy connector, 1mm pitch, contact from below, Würth 68612614422
 $ENDCMP
 #
 #End Doc Library
