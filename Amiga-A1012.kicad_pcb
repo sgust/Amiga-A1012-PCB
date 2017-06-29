@@ -835,12 +835,12 @@
     )
   )
 
-  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5904D51E) (tstamp 5908E2F9)
+  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 595534E7) (tstamp 5908E2F9)
     (at 146 145.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
-    (fp_text reference REF** (at 4.064 0) (layer F.SilkS) hide
+    (fp_text reference Marker2 (at 4.064 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (at 0 -1.8) (layer F.Fab) hide
@@ -851,12 +851,12 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5904D52A) (tstamp 5908E30A)
+  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 595534D9) (tstamp 5908E30A)
     (at 146.05 76.454)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
-    (fp_text reference REF** (at 3.4 0.7) (layer F.SilkS) hide
+    (fp_text reference Marker1 (at 3.4 0.7) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (at 0 -1.8) (layer F.Fab) hide
@@ -867,12 +867,12 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 5904D524) (tstamp 5908E315)
+  (module Fiducials:Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (layer F.Cu) (tedit 595534F0) (tstamp 5908E315)
     (at 196.75 145.75)
     (descr "Circular Fiducial, 1mm bare copper top; 2.54mm keepout")
     (tags marker)
     (attr virtual)
-    (fp_text reference REF** (at -4.064 0) (layer F.SilkS) hide
+    (fp_text reference Marker3 (at -4.064 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Fiducial_1mm_Dia_2.54mm_Outer_CopperTop (at 0 -1.8) (layer F.Fab) hide
@@ -883,11 +883,11 @@
       (solder_mask_margin 0.77) (clearance 0.77))
   )
 
-  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 5905F719) (tstamp 590A87D6)
+  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 5955349D) (tstamp 590A87D6)
     (at 138.938 76.454)
     (descr "Mounting Hole 4mm, no annular")
     (tags "mounting hole 4mm no annular")
-    (fp_text reference REF** (at 0 -5) (layer F.SilkS) hide
+    (fp_text reference Hole1 (at 0 -5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_4mm (at 0 5) (layer F.Fab) hide
@@ -898,11 +898,11 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   )
 
-  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 5905FA32) (tstamp 590A8822)
+  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 595534BB) (tstamp 590A8822)
     (at 139 145.75)
     (descr "Mounting Hole 4mm, no annular")
     (tags "mounting hole 4mm no annular")
-    (fp_text reference REF** (at 0 -5) (layer F.SilkS) hide
+    (fp_text reference Hole3 (at 0 -5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_4mm (at 0 5) (layer F.Fab) hide
@@ -913,11 +913,11 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   )
 
-  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 5905F94B) (tstamp 590A883C)
+  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 595534C9) (tstamp 590A883C)
     (at 203.75 145.75)
     (descr "Mounting Hole 4mm, no annular")
     (tags "mounting hole 4mm no annular")
-    (fp_text reference REF** (at 0 -5) (layer F.SilkS) hide
+    (fp_text reference Hole4 (at 0 -5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_4mm (at 0 5) (layer F.Fab) hide
@@ -928,11 +928,11 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   )
 
-  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 5905F992) (tstamp 590A8849)
+  (module Mounting_Holes:MountingHole_4mm (layer F.Cu) (tedit 595534AE) (tstamp 590A8849)
     (at 203.75 76.5)
     (descr "Mounting Hole 4mm, no annular")
     (tags "mounting hole 4mm no annular")
-    (fp_text reference REF** (at 0 -5) (layer F.SilkS) hide
+    (fp_text reference Hole2 (at 0 -5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value MountingHole_4mm (at 0 5) (layer F.Fab) hide
