@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C4,C5,C6";"R_0603";3;"100nF";;;
+2;"CONN1";"Pin_Header_Angled_2x12";1;"AmigaFloppyExternal";;;
+3;"FLOP0,FLOP1";"FFC-26";2;"FLOPPY26";;;
+4;"R1,R2,R3,R4,R5";"R_0603";5;"1K";;;
+5;"U1,U3";"SOIC-14_N";2;"74LS38";;;
+6;"U2";"SOIC-14_N";1;"74LS74";;;
+7;"Marker2,Marker1,Marker3";"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";3;"Fiducial_1mm_Dia_2.54mm_Outer_CopperTop";;;
+8;"Hole1,Hole3,Hole4,Hole2";"MountingHole_4mm";4;"MountingHole_4mm";;;
+9;"C1,C2,C3";"Tantalum_Case-D_EIA-7343-31_Reflow";3;"470µF/10V";;;
